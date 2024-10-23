@@ -34,7 +34,7 @@ $carros = $carrosDAO->buscarCarros();
 <head>
     <meta charset="UTF-8">
     <title>Gerenciamento de Carros</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./assets/style.css">
 </head>
 <body>
     <h1>Gerenciamento de Carros</h1>
